@@ -37,6 +37,7 @@
 12. Repeat step 3-5. Make sure the new Metahook plugin is listed after you're typing _`mh_pluginlist`_.
 
 <a name="why-must-3266"></a>
+> [!NOTE]
 > #### Why specific build 3266 is required?
 > The Metahook plugin we're going to use currently only works with build 3266. That's why it requires build 3266, which is quite hard to find nowadays. Thanks to archive.org I can find one that easy to download and install without crappy files (clean).
 ---
