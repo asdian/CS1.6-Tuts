@@ -25,7 +25,7 @@
 
 5. Make sure the game is stable first before continuing. Play for few minutes or hours to make sure. Also try to change maps, change teams, change classes, etc.
 6. Now download this Metahook plugin from [here](https://www.mediafire.com/file/nh8ui1ht070k96u/MH_Precache.rar/file).
-7. Copy the `.dll` file into `cstrike\metahook\plugins`.
+7. Find and copy the `.dll` file into `cstrike\metahook\plugins`.
 8. Open `cstrike\metahook\configs\plugins.lst` with any text editor.
 9. Write the `.dll` file name you just copied from the .rar (with the `.dll` text) and save it.
 10. Open `cstrike\delta.lst` with any text editor.
