@@ -21,10 +21,10 @@
 3. Run and play your CS1.6 from `cstrike.exe`, play with bots, make sure eveything runs fine, no crash. If you're facing crashes and other, might be your installment/system issue.
 4. Inside the game, press tilde "~" symbol on your keyboard, then type _`mh_pluginlist`_. If the output shows as shown on this image below, the Metahook is successfully installed.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://i.imgur.com/77nEkmr.png)
+![List of installed Metahook Plugins.](https://i.imgur.com/77nEkmr.png)
 
 5. Make sure the game is stable first before continuing. Play for few minutes or hours to make sure. Also try to change maps, change teams, change classes, etc.
-6. Now download this Metahook plugin** from [here](https://www.mediafire.com/file/nh8ui1ht070k96u/MH_Precache.rar/file).
+6. Now download this [Metahook plugin](#my-custom-anchor-point) from [here](https://www.mediafire.com/file/nh8ui1ht070k96u/MH_Precache.rar/file).
 7. Copy the `.dll` file into `cstrike\metahook\plugins`.
 8. Open `cstrike\metahook\configs\plugins.lst` with any text editor.
 9. Write the `.dll` file name you just copied from the .rar to there and save it.
@@ -35,4 +35,4 @@
 <a name="my-custom-anchor-point"></a>
 > [!NOTE]
 > ### Why specific build 3266 is required?
-> That Metahook plugin currently only works with build 3266. That's why it requires build 3266, which is quite hard to find nowadays. Thanks to archive.org I can find one that easy to download and install without crappy files (clean).
+> The Metahook plugin we're going to use currently only works with build 3266. That's why it requires build 3266, which is quite hard to find nowadays. Thanks to archive.org I can find one that easy to download and install without crappy files (clean).
