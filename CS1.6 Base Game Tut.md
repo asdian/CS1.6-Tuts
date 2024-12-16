@@ -67,7 +67,7 @@ Now, on to installation of AMX Mod X.
 
 ![Disable zbot.](https://i.imgur.com/AeW3eUx.png)
 
-7. Repeat the step 3 of this [guide.](https://github.com/asdian/CS1.6-Singleplayer-Setup/blob/main/README.md#setting-up-the-base-game).
+7. Repeat the step 3 of [Setting up the base game.](https://github.com/asdian/CS1.6-Tuts/blob/main/CS1.6%20Base%20Game%20Tut.md#setting-up-the-base-game).
 
 > Congratulations!
 > -
@@ -84,7 +84,7 @@ Optionally, you can install Metadrawer, a Metahook plugin to load images for UI 
 5. Go to cstrike folder, create a file named _`userconfig.cfg`_ (a must, can't use random naming). Not a .txt file, make sure you have done that properly.
 6. Write this command: _`md_newmenu "0"`_ inside and save it.
 7. Go to `cstrike\addons\amxmodx\configs` folder, open `modules.ini` with any text editor, write _`metadrawer`_ in it and save.
-8. Repeat the step 3-5 of this [guide.](https://github.com/asdian/CS1.6-Singleplayer-Setup/blob/main/README.md#setting-up-the-base-game).
+8. Repeat the step 3-5 of [Setting up the base game.](https://github.com/asdian/CS1.6-Tuts/blob/main/CS1.6%20Base%20Game%20Tut.md#setting-up-the-base-game).
 
 > [!TIP]
 > Alternatively, you can use [MetaCSU](https://csumods.blogspot.com/2023/06/cs16-plugin-metahook-mhmetacsu-v02.html) which provides around the same functionality. But don't mix them unless you're know what you're doing.
