@@ -62,6 +62,6 @@ Optionally, you can install Metadrawer, a Metahook plugin to load images for UI 
 5. Go to cstrike folder, create a file named _`userconfig.cfg`_ (a must, can't use random naming). Not a .txt file, make sure you have done that properly.
 6. Write this command: _`md_newmenu "0"`_ inside and save it.
 7. Go to `cstrike\addons\amxmodx\configs` folder, open `modules.ini` with any text editor, write _`metadrawer`_ in it and save.
-8. Repeat this [step](#test-run).
+8. Repeat from step 3-5 of this [guide.](https://github.com/asdian/CS1.6-Singleplayer-Setup/blob/main/README.md#setting-up-the-base-game).
 
 -> Alternatively, you can use MetaCSU which provides around the same functionality. But don't mix them unless you're know what you're doing.
