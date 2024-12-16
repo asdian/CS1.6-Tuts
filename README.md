@@ -18,7 +18,6 @@
    - Rename `Metahook_blob.exe` to `cstrike.exe`
    - Go to `cstrike\metahook\configs` folder, delete `plugins_svencoop.lst` and rename `plugins_goldsrc.lst` to `plugins.lst`.
 
-<a name="test-run"></a>
 3. Run and play your CS1.6 from `cstrike.exe`, play with bots, make sure eveything runs fine, no crash. If you're facing crashes and other, might be your installment/system issue.
 4. Inside the game, press tilde "~" symbol on your keyboard, then type _`mh_pluginlist`_. If the output shows as shown on this image below, the Metahook is successfully installed.
 
