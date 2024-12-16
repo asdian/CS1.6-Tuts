@@ -10,7 +10,7 @@
 
 ### Setting up the base game.
 
-1. Download and install this specific version of CS1.6 [here](https://archive.org/details/counter-strike-1.6_202106). [Why?](#my-custom-anchor-point)
+1. Download and install this specific version of CS1.6 [here](https://archive.org/details/counter-strike-1.6_202106). [Why?](#why-must-3266)
 2. Download and install latest [MetahookSV](https://github.com/hzqst/MetaHookSv/releases/), choose blob version.
    - Copy `cstrike_hd`, `echoes`, `gearbox`, `platform`, `Metahook_blob.exe`, and `SDL2.dll` into your installed CS1.6 folder.
    - Open `svencoop` folder and copy everything into `cstrike` folder.
@@ -24,7 +24,7 @@
 ![List of installed Metahook Plugins.](https://i.imgur.com/77nEkmr.png)
 
 5. Make sure the game is stable first before continuing. Play for few minutes or hours to make sure. Also try to change maps, change teams, change classes, etc.
-6. Now download this [Metahook plugin](#my-custom-anchor-point) from [here](https://www.mediafire.com/file/nh8ui1ht070k96u/MH_Precache.rar/file).
+6. Now download this Metahook plugin) from [here](https://www.mediafire.com/file/nh8ui1ht070k96u/MH_Precache.rar/file).
 7. Copy the `.dll` file into `cstrike\metahook\plugins`.
 8. Open `cstrike\metahook\configs\plugins.lst` with any text editor.
 9. Write the `.dll` file name you just copied from the .rar to there and save it.
@@ -32,7 +32,7 @@
 11. Find every parameter that contains `modelindex`, `viewmodel`, `weaponmodel`, then change the value from `10` to `16`, and save it.
 12. Repeat step 3-5. Make sure the new Metahook plugin is listed after you're typing _`mh_pluginlist`_.
 
-<a name="my-custom-anchor-point"></a>
+<a name="why-must-3266"></a>
 > [!NOTE]
 > ### Why specific build 3266 is required?
 > The Metahook plugin we're going to use currently only works with build 3266. That's why it requires build 3266, which is quite hard to find nowadays. Thanks to archive.org I can find one that easy to download and install without crappy files (clean).
