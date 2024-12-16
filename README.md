@@ -18,6 +18,7 @@
    - Rename `Metahook_blob.exe` to `cstrike.exe`
    - Go to `cstrike\metahook\configs` folder, delete `plugins_svencoop.lst` and rename `plugins_goldsrc.lst` to `plugins.lst`.
 
+<a name="test-run"></a>
 3. Run and play your CS1.6 from `cstrike.exe`, play with bots, make sure eveything runs fine, no crash. If you're facing crashes and other, might be your installment/system issue.
 4. Inside the game, press tilde "~" symbol on your keyboard, then type _`mh_pluginlist`_. If the output shows as shown on this image below, the Metahook is successfully installed.
 
@@ -49,5 +50,19 @@ Now, on to installation of AMX Mod X.
 
 5. Make sure the game is stable first before continuing. Play for few minutes or hours to make sure. Also try to change maps, change teams, change classes, etc.
 
-### Congratulations!
+#### Congratulations!
 Now you have a working base game to start modding. You don't have to worry with 512 precache limit again thanks to that Metahook plugin. It increases the precache to around 1024.
+
+### Installing Metadrawer [Optional]
+Optionally, you can install Metadrawer, a Metahook plugin to load images for UI enhancements into the game.
+
+1. Download from [here](https://gamebanana.com/mods/39420).
+2. Place `binkw32.dll` and `cstrike` folder into your installed CS1.6 folder.
+3. Open `cstrike\metahook\configs\plugins.lst` with any text editor.
+4. Write that .dll file name you just copied and save it.
+5. Go to cstrike folder, create a file named _`userconfig.cfg`_ (a must, can't use random naming). Not a .txt file, make sure you have done that properly.
+6. Write this command: _`md_newmenu "0"`_ inside and save it.
+7. Go to `cstrike\addons\amxmodx\configs` folder, open `modules.ini` with any text editor, write _`metadrawer`_ in it and save.
+8. Repeat this [step](#test-run).
+
+-> Alternatively, you can use MetaCSU which provides around the same functionality. But don't mix them unless you're know what you're doing.
