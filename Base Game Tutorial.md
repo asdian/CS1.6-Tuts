@@ -12,14 +12,15 @@
 
 1. Download and install this specific version of CS1.6 [here](https://archive.org/details/counter-strike-1.6_202106). ([Why?](#why-must-3266))
 2. Download and install latest [MetahookSV](https://github.com/hzqst/MetaHookSv/releases/), choose `blob` version.
-> [!NOTE]
-> #### What is Metahook?
-> Metahook is an addon for Goldsrc-based games to give extensive functionality (similar to ReHLDS and such). Unfortunately Metahook is for Windows only, which is have its specific requirements to be able to use for multiplayer (don't ask me how, I don't know too).
    - Copy `cstrike_hd`, `echoes`, `gearbox`, `platform`, `Metahook_blob.exe`, and `SDL2.dll` into your installed CS1.6 folder.
    - Open `svencoop` folder and copy everything into `cstrike` folder.
    - Back to your installed CS1.6 folder, rename the original `cstrike.exe` to something else if exist (as a backup).
    - Rename `Metahook_blob.exe` to `cstrike.exe`
    - Go to `cstrike\metahook\configs` folder, delete `plugins_svencoop.lst` and rename `plugins_goldsrc.lst` to `plugins.lst`.
+
+> [!NOTE]
+> #### What is Metahook?
+> Metahook is an addon for Goldsrc-based games to give extensive functionality (similar to ReHLDS and such). Unfortunately Metahook is for Windows only, which is have its specific requirements to be able to use for multiplayer (don't ask me how, I don't know too).
 
 3. Run and play your CS1.6 from `cstrike.exe`, play with built-in bots, make sure eveything runs fine, no crash. If you're facing crashes and other, might be your installment/system issue.
 4. Inside the game, press tilde `~` symbol on your keyboard, then type _`mh_pluginlist`_. If the output shows as shown on this image below, the Metahook is successfully installed.
