@@ -8,6 +8,10 @@
 > [!CAUTION]
 > This guide is only for single player mode (offline).
 
+### System Requirements
+- The same as listed from [CS1.6 Steam Page](https://store.steampowered.com/app/10/CounterStrike/)
+- Video card / graphics that supports DX11 and OpenGL 4.2+
+
 ### Setting up the base game.
 
 1. Download and install this specific version of CS1.6 [here](https://archive.org/details/counter-strike-1.6_202106). ([Why?](#why-must-3266))
@@ -20,7 +24,7 @@
 
 > [!NOTE]
 > #### What is Metahook?
-> Metahook is an addon for Goldsrc-based games to give extensive functionality (like ReHLDS and such). Unfortunately Metahook is for Windows only, which is have its specific requirements to be able to use for multiplayer (don't ask me how, I don't know too).
+> Metahook is an addon for Goldsrc-based games to give extensive functionality (like ReHLDS and such). Unfortunately Metahook is for Windows only, which is have its specific requirements to be able to use for multiplayer (don't ask me how, I don't know too). Metahook is heavily dependant with OpenGL and DirectX (correct me if I'm wrong, it's from my experience since I can't find the system req. docs for it).
 
 3. Run and play your CS1.6 from `cstrike.exe`, play with built-in bots, make sure eveything runs fine, no crash. If you're facing crashes and other, might be your installment/system issue.
 4. Inside the game, press tilde `~` symbol on your keyboard, then type _`mh_pluginlist`_. If the output shows as shown on this image below, the Metahook is successfully installed.
