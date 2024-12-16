@@ -38,3 +38,16 @@
 > The Metahook plugin we're going to use currently only works with build 3266. That's why it requires build 3266, which is quite hard to find nowadays. Thanks to archive.org I can find one that easy to download and install without crappy files (clean).
 
 ### Installing AMX Mod X
+Now, on to installation of AMX Mod X.
+
+1. Download [this](https://github.com/asdian/CS1.6-Singleplayer-Setup/blob/main/AMX%20Mod%20X%20Starter%20Pack.rar) package. This package includes reGameDLL - ReAPI, SYPB (disabled by default), Metamod-P 1.21p38, Printcenter fix, and AMXModX 1.10.0.5467.
+2. Extract all the files into _`cstrike`_ folder.
+3. Start and run the game.
+4. Inside the game, press tilde "~" symbol on your keyboard, then type _`meta list`_ and _`amxx plugins`_. If the output shows as shown on this image below or similar (outputs something, not an unknown command), the package is successfully installed.
+
+![Metamod installed plugin list.](https://i.imgur.com/1KR8It3.png)
+
+5. Make sure the game is stable first before continuing. Play for few minutes or hours to make sure. Also try to change maps, change teams, change classes, etc.
+
+### Congratulations!
+Now you have a working base game to start modding. You don't have to worry with 512 precache limit again thanks to that Metahook plugin. It increases the precache to around 1024.
