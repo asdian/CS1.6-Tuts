@@ -1,4 +1,4 @@
-# CS1.6-Singleplayer-Setup
+# CS1.6 Singleplayer Setup
 ## Guide to set up the game for testing mods or just for fun.
 
 > [!WARNING]
