@@ -36,7 +36,7 @@
 > [!NOTE]
 > #### Why specific build 3266 is required?
 > The Metahook plugin we're going to use currently only works with build 3266. That's why it requires build 3266, which is quite hard to find nowadays. Thanks to archive.org I can find one that easy to download and install without crappy files (clean).
-
+---
 ### Installing AMX Mod X
 Now, on to installation of AMX Mod X.
 
@@ -49,8 +49,10 @@ Now, on to installation of AMX Mod X.
 
 5. Make sure the game is stable first before continuing. Play for few minutes or hours to make sure. Also try to change maps, change teams, change classes, etc.
 
-#### Congratulations!
-Now you have a working base game to start modding. You don't have to worry with 512 precache limit again thanks to that Metahook plugin. It increases the precache to around 1024.
+> Congratulations!
+> -
+> Now you have a working base game to start modding. You don't have to worry with 512 precache limit again thanks to that Metahook plugin. It increases the precache to around 1024.
+---
 
 ### Installing Metadrawer [Optional]
 Optionally, you can install Metadrawer, a Metahook plugin to load images for UI enhancements into the game.
@@ -64,4 +66,8 @@ Optionally, you can install Metadrawer, a Metahook plugin to load images for UI 
 7. Go to `cstrike\addons\amxmodx\configs` folder, open `modules.ini` with any text editor, write _`metadrawer`_ in it and save.
 8. Repeat from step 3-5 of this [guide.](https://github.com/asdian/CS1.6-Singleplayer-Setup/blob/main/README.md#setting-up-the-base-game).
 
--> Alternatively, you can use MetaCSU which provides around the same functionality. But don't mix them unless you're know what you're doing.
+> [!TIP]
+> Alternatively, you can use [MetaCSU](https://csumods.blogspot.com/2023/06/cs16-plugin-metahook-mhmetacsu-v02.html) which provides around the same functionality. But don't mix them unless you're know what you're doing.
+
+> That's all, you have successfully installed a CS1.6 complete with its addons for modding.
+> -
