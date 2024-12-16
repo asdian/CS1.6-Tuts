@@ -11,7 +11,7 @@
 ### Setting up the base game.
 
 1. Download and install this specific version of CS1.6 [here](https://archive.org/details/counter-strike-1.6_202106). ([Why?](#why-must-3266))
-2. Download and install latest [MetahookSV](https://github.com/hzqst/MetaHookSv/releases/), choose blob version. ([What is this?](#what-is-metahook))
+2. Download and install latest [MetahookSV](https://github.com/hzqst/MetaHookSv/releases/), choose `blob` version. ([What is this?](#what-is-metahook))
    - Copy `cstrike_hd`, `echoes`, `gearbox`, `platform`, `Metahook_blob.exe`, and `SDL2.dll` into your installed CS1.6 folder.
    - Open `svencoop` folder and copy everything into `cstrike` folder.
    - Back to your installed CS1.6 folder, rename the original `cstrike.exe` to something else if exist (as a backup).
