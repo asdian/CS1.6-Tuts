@@ -1,5 +1,5 @@
-# Into AMX Mod X Scripts
-Below is tutorials of setting up workspace for .amxx scripts.
+# Into AMX Mod X Scripting
+Below is tutorials of setting up workspace for AMX Mod X scripting.
 
 > [!NOTE]
 > [About AMX Mod X](https://www.amxmodx.org/about.php)
