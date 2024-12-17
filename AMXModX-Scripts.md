@@ -7,9 +7,17 @@ Below is tutorials of setting up workspace for .amxx scripts.
 > A RAW file (uncompiled) before `.amxx` is in `.sma` format. We need a software to properly create or modify, then compiling it into an `.amxx`.
 
 ### Setting up working space
-#### Let's set up our directory to store the files.
+1. Download the AMX Mod X scripting package [here](https://www.amxmodx.org/downloads-new.php) (or [here](https://www.amxmodx.org/downloads-new.php?branch=master) for the newest available).
+2. Create and place the files into your project folder. Here's the example:
 
+![AMX Mod X Minimal Files](https://i.imgur.com/7I5cWfs.png)
+> [!TIP]
+> I recommend to not put the files inside the CS1.6 installation folder, in case when you need to clean install the game it saves you the hassle from doing backups.
+
+#### Now, let's set up our scripting software.
 There are two softwares that I've used for making AMX Mod X scripts.
 
 > A. Easy Way
+
 The easy way is using AMX Mod X Studio. A lightweight software for AMX Mod X scripting.
+3. Download the AMX Mod X Studio from [here](https://sourceforge.net/projects/amxmodx/files/AMX%20Mod%20X%20Studio/1.4.3%20final/AMXX_Studio_1.4.3_final.zip/download)
