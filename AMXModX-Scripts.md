@@ -28,7 +28,8 @@ Below is tutorials of setting up workspace for AMX Mod X scripting.
 ![AMXX Studio 2](https://i.imgur.com/WVu5RHg.png)
 8. Press `OK` and you're good to go. Easy right?
 ---
-> #### The advanced way is using Visual Studio Code. A modern software for AMX Mod X scripting.
+> #### The advanced way is using Visual Studio Code.
+> A modern software for advanced AMX Mod X scripting.
 
 3. Download and install [VSCode](https://code.visualstudio.com/)
 4. Go to `Extensions` and install `AMXXPawn Language` by `KliPPy`.
