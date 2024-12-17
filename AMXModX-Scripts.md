@@ -38,5 +38,5 @@ Below is tutorials of setting up workspace for AMX Mod X scripting.
 6. Click `Edit in settings.json` (doesn't matter which one).
 ![AMXX VSCode3](https://i.imgur.com/kJTlv48.png)
 7. Edit your working folders and files as needed.
-![AMXX VSCode4](https://i.imgur.com/kJTlv48.png)
+![AMXX VSCode4](https://i.imgur.com/qOyFVYj.png)
 8. Then save it or press `CTRL + S` and you're good to go.
