@@ -51,7 +51,7 @@ Now, on to installation of AMX Mod X.
 1. Download [this](https://github.com/asdian/CS1.6-Singleplayer-Setup/blob/main/AMX%20Mod%20X%20Starter%20Pack.rar) package. This package includes ReGameDLL 5.26.0.668-dev, SyPB 1.50 (disabled by default), Metamod-P 1.21p38, Printcenter fix, and AMXModX 1.10.0.5467.
 2. Extract all the files into _`cstrike`_ folder.
 3. Start and run the game.
-4. Inside the game, press tilde "~" symbol on your keyboard, then type _`meta list`_ and _`amxx plugins`_. If the output shows as shown on this image below or similar (outputs something, not an unknown command), the package is successfully installed.
+4. Inside the game, press tilde `~` symbol on your keyboard, then type _`meta list`_ and _`amxx plugins`_. If the output shows as shown on this image below or similar (outputs something, not an unknown command), the package is successfully installed.
 
 ![Metamod installed plugin list.](https://i.imgur.com/1KR8It3.png)
 
