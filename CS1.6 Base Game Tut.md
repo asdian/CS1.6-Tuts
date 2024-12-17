@@ -62,7 +62,7 @@ Now, on to installation of AMX Mod X.
 2. On _`;win32   addons\sypb\dlls\sypb.dll`_ line, delete the semicolon `;` and then save it. If that line doesn't exist just copy-paste it without the semicolon.
 3. Open `cstrike/addons/amxmodx/configs/modules.ini`.
 4. Find these two lines: _`;sypb`_ and _`;swnpc`_.
-5. Delete the semicolon `;` from them and then save it. If those lines doesn't exist just write them without the semicolon. _Don't write them at the same line._
+5. Delete the semicolon `;` from them and then save it. If those lines doesn't exist just write them without the semicolon. _**Don't write them at the same line.**_
 6. On the game lobby, make sure to disable the built-in bot.
 
 ![Disable zbot.](https://i.imgur.com/AeW3eUx.png)
