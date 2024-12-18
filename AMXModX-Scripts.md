@@ -34,7 +34,7 @@ Below is tutorials of setting up workspace for AMX Mod X scripting.
 3. Download and install [VSCode](https://code.visualstudio.com/)
 4. Go to `Extensions` and install `AMXXPawn Language` by `KliPPy`.
 ![AMXX VScode1](https://i.imgur.com/UyWdqEL.png)
-5. After installing it, go to `Manage` then `Settings`
+5. After installing it, go to `Manage` then `Settings`.
 ![AMXX VSCode2](https://i.imgur.com/CMo5SpX.png)
 6. Click `Edit in settings.json` (doesn't matter which one).
 ![AMXX VSCode3](https://i.imgur.com/kJTlv48.png)
