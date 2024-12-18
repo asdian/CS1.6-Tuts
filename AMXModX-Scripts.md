@@ -20,9 +20,9 @@ Below is tutorials of setting up workspace for AMX Mod X scripting.
 > #### The easy way is using AMX Mod X Studio. A lightweight software for AMX Mod X scripting.
 
 3. Download the AMX Mod X Studio from [here](https://sourceforge.net/projects/amxmodx/files/AMX%20Mod%20X%20Studio/1.4.3%20final/AMXX_Studio_1.4.3_final.zip/download). It's a portable software, you just have to extract it.
-4. Place it somewhere. `Example: D:/Projects/CS1.6/AMX Studio/(here)`
-5. Open `AMXX_Studio.exe`
-6. Go to `Tools` -> `Settings`
+4. Place it somewhere. `Example: D:/Projects/CS1.6/AMX Studio/(here)`.
+5. Open `AMXX_Studio.exe`.
+6. Go to `Tools` -> `Settings`.
 ![AMXX Studio 1](https://i.imgur.com/3hrc2gM.png)
 7. Go to `Compiler` menu, and apply the corresponding `amxxpc.exe` and `compile.exe` from your directory / the step 2.
 ![AMXX Studio 2](https://i.imgur.com/WVu5RHg.png)
