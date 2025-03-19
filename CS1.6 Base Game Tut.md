@@ -29,7 +29,7 @@
 3. Run and play your CS1.6 from `cstrike.exe`, play with built-in bots, make sure eveything runs fine, no crash. If you're facing crashes and other, might be your installment/system issue.
 4. Inside the game, press tilde `~` symbol on your keyboard, then type _`mh_pluginlist`_. If the output shows as shown on this image below, the Metahook is successfully installed.
 
-![List of installed Metahook Plugins.](https://i.imgur.com/77nEkmr.png)
+![List of installed Metahook Plugins.](https://github.com/asdian/CS1.6-Tuts/blob/main/Pics/BaseGame/Screenshot_1.png)
 
 5. Make sure the game is stable first before continuing. Play for few minutes or hours to make sure. Also try to change maps, change teams, change classes, etc.
 6. Now download this Metahook plugin from [here](https://www.mediafire.com/file/nh8ui1ht070k96u/MH_Precache.rar/file).
