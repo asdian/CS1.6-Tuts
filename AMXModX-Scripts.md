@@ -9,7 +9,7 @@ Below is tutorials of setting up workspace for AMX Mod X scripting.
 ### Setting up working space
 1. Download the AMX Mod X scripting package [here](https://www.amxmodx.org/downloads-new.php) (or [here](https://www.amxmodx.org/downloads-new.php?branch=master) for the newest available). **Choose `base` package.
 2. Create and place the `scripting` folder or contents into your project folder. Here's the example:
-![AMX Mod X Minimal Files](https://i.imgur.com/7I5cWfs.png)
+![AMX Mod X Minimal Files](https://github.com/asdian/CS1.6-Tuts/blob/main/Pics/AMXX-Scripting/Screenshot_1.png)
 > [!TIP]
 > I recommend to not put the files inside the CS1.6 installation folder, in case when you need to clean install the game it saves you the hassle from doing backups.
 
@@ -23,7 +23,7 @@ Below is tutorials of setting up workspace for AMX Mod X scripting.
 4. Place it somewhere. `Example: D:/Projects/CS1.6/AMX Studio/(here)`.
 5. Open `AMXX_Studio.exe`.
 6. Go to `Tools` -> `Settings`.
-![AMXX Studio 1](https://i.imgur.com/3hrc2gM.png)
+![AMXX Studio 1](https://github.com/asdian/CS1.6-Tuts/blob/main/Pics/AMXX-Scripting/Screenshot_2.png)
 7. Go to `Compiler` menu, and apply the corresponding `amxxpc.exe` and `compile.exe` from your directory / the step 2.
 ![AMXX Studio 2](https://i.imgur.com/WVu5RHg.png)
 8. Press `OK` and you're good to go. Easy right?
