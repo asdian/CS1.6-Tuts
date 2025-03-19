@@ -13,7 +13,7 @@ Below is tutorials of setting up workspace for AMX Mod X scripting.
 > [!TIP]
 > I recommend to not put the files inside the CS1.6 installation folder, in case when you need to clean install the game it saves you the hassle from doing backups.
 
-#### Now, let's set up our scripting software. There are two softwares that I've used for AMX Mod X scripting.
+#### Now, let's set up our scripting software. There are two softwares that I use for AMX Mod X scripting.
 
 > ### Easy Way / [Advanced Way](https://github.com/asdian/CS1.6-Tuts/blob/main/AMXModX-Scripts.md#the-advanced-way-is-using-visual-studio-code)
 ---
