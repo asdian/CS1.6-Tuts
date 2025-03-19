@@ -29,7 +29,7 @@
 3. Run and play your CS1.6 from `cstrike.exe`, play with built-in bots, make sure eveything runs fine, no crash. If you're facing crashes and other, might be your installment/system issue.
 4. Inside the game, press tilde `~` symbol on your keyboard, then type _`mh_pluginlist`_. If the output shows as shown on this image below, the Metahook is successfully installed.
 
-![List of installed Metahook Plugins.](https://i.imgur.com/77nEkmr.png)
+![List of installed Metahook Plugins.](https://github.com/asdian/CS1.6-Tuts/blob/main/Pics/BaseGame/Screenshot_1.png)
 
 5. Make sure the game is stable first before continuing. Play for few minutes or hours to make sure. Also try to change maps, change teams, change classes, etc.
 6. Now download this Metahook plugin from [here](https://www.mediafire.com/file/nh8ui1ht070k96u/MH_Precache.rar/file).
@@ -53,7 +53,7 @@ Now, on to installation of AMX Mod X.
 3. Start and run the game.
 4. Inside the game, press tilde `~` symbol on your keyboard, then type _`meta list`_ and _`amxx plugins`_. If the output shows as shown on this image below or similar (outputs something, not an unknown command), the package is successfully installed.
 
-![Metamod installed plugin list.](https://i.imgur.com/1KR8It3.png)
+![Metamod installed plugin list.](https://github.com/asdian/CS1.6-Tuts/blob/main/Pics/BaseGame/Screenshot_2.png)
 
 5. Make sure the game is stable first before continuing. Play for few minutes or hours to make sure. Also try to change maps, change teams, change classes, etc.
 
@@ -65,7 +65,7 @@ Now, on to installation of AMX Mod X.
 5. Delete the semicolon `;` from them and then save it. If those lines doesn't exist just write them without the semicolon. _**Don't write them at the same line.**_
 6. On the game lobby, make sure to disable the built-in bot.
 
-![Disable zbot.](https://i.imgur.com/AeW3eUx.png)
+![Disable zbot.](https://github.com/asdian/CS1.6-Tuts/blob/main/Pics/BaseGame/Screenshot_3.png)
 
 7. Repeat the step 3 of [Setting up the base game.](https://github.com/asdian/CS1.6-Tuts/blob/main/CS1.6%20Base%20Game%20Tut.md#setting-up-the-base-game).
 
