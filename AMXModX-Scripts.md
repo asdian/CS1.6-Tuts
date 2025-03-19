@@ -25,7 +25,7 @@ Below is tutorials of setting up workspace for AMX Mod X scripting.
 6. Go to `Tools` -> `Settings`.
 ![AMXX Studio 1](https://github.com/asdian/CS1.6-Tuts/blob/main/Pics/AMXX-Scripting/Screenshot_2.png)
 7. Go to `Compiler` menu, and apply the corresponding `amxxpc.exe` and `compile.exe` from your directory / the step 2.
-![AMXX Studio 2](https://i.imgur.com/WVu5RHg.png)
+![AMXX Studio 2](https://github.com/asdian/CS1.6-Tuts/blob/main/Pics/AMXX-Scripting/Screenshot_3x.png)
 8. Press `OK` and you're good to go. Easy right?
 ---
 > #### The advanced way is using Visual Studio Code.
