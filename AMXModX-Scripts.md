@@ -47,3 +47,7 @@ Below is tutorials of setting up workspace for AMX Mod X scripting.
 So far, from what I can tell only few differences that's significantly affects experience.
 
 For easy and short scripts, AMX Mod X Studio is <ins>better</ins> because it can show dropdown of function suggestions from the loaded include (`.inc`) files, while VSCode **only** shows suggestion from what are inside the currently opened script file. However, when your scripts has 1500+ line long, VSCode is better because AMX Mod X Studio will lag.
+
+# Where to start scripting?
+Refer to this [link](https://forums.alliedmods.net/showthread.php?t=172936). There's already a ton of AMX Mod X scripting Tutorials, Guides, Snippets, and References. Good luck!
+
