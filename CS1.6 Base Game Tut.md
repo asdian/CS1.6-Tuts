@@ -1,4 +1,4 @@
-# Main Setup
+# Main Setup (Last Update: 26/03/25)
 ## Guide to set up the base game for testing mods or just for fun.
 
 > [!WARNING]
@@ -44,13 +44,14 @@
 <a name="why-must-3266"></a>
 > [!NOTE]
 > #### Why specific 3266 build is required?
-> The Metahook plugin we're going to use is to extend the precache limit (you read it right). But currently it only works with build 3266. That's why it requires build 3266, which is quite hard to find nowadays. Thanks to archive.org I can find one that easy to download and install without crappy files (clean).
+> The Metahook plugin we're going to use is to extend the precache limit (you read it right). But currently it only works with build 3266. That's why it requires build 3266, which is quite hard to find nowadays. Thanks to archive.org I can find one that easy to download and install without crappy files (clean). If you're not intended to use this Metahook plugin, you still can follow this guide and skipping step 6 and beyond.
 ---
 ### Installing AMX Mod X
 Now, on to installation of AMX Mod X.
 
 1. Download this [package](https://github.com/asdian/CS1.6-Singleplayer-Setup/blob/main/AMX%20Mod%20X%20Starter%20Pack.rar). It contains ReGameDLL 5.26.0.668-dev, SyPB 1.50 (disabled by default), Metamod-P 1.21p38, Printcenter fix, and AMXModX 1.10.0.5467.
 2. Extract all the files into _`cstrike`_ folder.
+2a. If you're using aforementioned Metahook plugin, repeat step 8-11 above.
 3. Start and run the game.
 4. Inside the game, press tilde `~` symbol on your keyboard, then type _`meta list`_ and _`amxx plugins`_. If the output shows as shown on this image below or similar (outputs something, not an unknown command), the package is successfully installed.
 
